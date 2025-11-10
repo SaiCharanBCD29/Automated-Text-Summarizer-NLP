@@ -10,14 +10,13 @@ This project demonstrates how **Natural Language Processing (NLP)** and **pre-tr
 can efficiently summarize long text into meaningful short summaries.
 
 ## 💡 What is implemented?
-- Loads a pre-trained summarization model from **Hugging Face Transformers**
+- Loads a pre-trained summarization model 
 - Performs text tokenization and model inference
 - Generates summaries with customizable length (min/max)
 - Displays before-and-after text comparison for clarity
 
 ## 🧰 Technologies Used
 - **Python**
-- **Hugging Face Transformers**
 - **PyTorch**
 - *(Optional)* Google Colab or Jupyter Notebook for execution
 
